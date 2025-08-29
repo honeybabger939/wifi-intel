@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 reports/*.pdf
+!reports/wifi_report.pdf
